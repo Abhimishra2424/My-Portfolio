@@ -12,9 +12,38 @@ h1 {
   font-size: 3rem;
   margin: 1rem 0;
 }
+.a1{
+  border: 2px solid rgb(12, 12, 12);
+}
+.a1:hover{
+  color: white;
+  background-color: black;
+}
+.a2{
+  border: 2px solid rgb(12, 12, 12);
+}
+.a2:hover{
+  color: white;
+  background-color: black;
+}
+.a3{
+  border: 2px solid rgb(12, 12, 12);
+}
+.a3:hover{
+  color: white;
+  background-color: black;
+}
+.a4{
+  border: 2px solid rgb(12, 12, 12);
+}
+.a4:hover{
+  color: white;
+  background-color: black;
+}
 li {
   margin: 1rem 0;
 }
+
 #particles-js {
   background: #1a222c;
   display: flex;
@@ -157,6 +186,7 @@ section {
 }
 .content h2 {
   font-size: 2rem;
+  
 }
 .content ul {
   padding-left: 3rem;
@@ -184,16 +214,17 @@ section {
   height: 20px;
   padding: 10px;
   border-radius: 15px;
-  border: 2px solid #80c0f0;
+  border: 2px solid #000000;
   transition: all 0.7s;
   font-size: 20px;
   text-decoration: none;
-  color: #80c0f0;
+  color: #000000;
 }
 .button:active,
 .button:hover {
-  color: #1a222c;
-  background: #80c0f0;
+  color: white;
+  background-color: black;
+  
 }
 
 .skills div {
