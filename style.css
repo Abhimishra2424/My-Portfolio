@@ -18,6 +18,7 @@ h1 {
 .a1:hover{
   color: white;
   background-color: black;
+  transition: .15s all ease-in-out;
 }
 .a2{
   border: 2px solid rgb(12, 12, 12);
@@ -25,6 +26,7 @@ h1 {
 .a2:hover{
   color: white;
   background-color: black;
+  transition: .15s all ease-in-out;
 }
 .a3{
   border: 2px solid rgb(12, 12, 12);
@@ -32,6 +34,7 @@ h1 {
 .a3:hover{
   color: white;
   background-color: black;
+  transition: .15s all ease-in-out;
 }
 .a4{
   border: 2px solid rgb(12, 12, 12);
@@ -39,6 +42,7 @@ h1 {
 .a4:hover{
   color: white;
   background-color: black;
+  transition: .15s all ease-in-out;
 }
 li {
   margin: 1rem 0;
